@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/jest": "^29.5.12",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "typescript": "^5.5.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "name": "usasort",
+  "version": "1.0.0",
+  "description": "Sort a list of countries correctly (USA first)",
+  "main": "usasort.ts",
+  "author": "William A Sease",
+  "license": "MIT"
+}

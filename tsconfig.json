@@ -1,0 +1,11 @@
+// tsconfig.json
+{
+    "compilerOptions": {
+      "outDir": "./dist",
+      "module": "commonjs",
+      "target": "es6",
+      "declaration": true, // Optional: to generate .d.ts files for TypeScript users
+      "sourceMap": true
+    },
+    "include": ["src/**/*"]
+  }
