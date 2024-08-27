@@ -15,6 +15,5 @@
   "version": "1.0.0",
   "description": "Sort a list of countries correctly (USA first)",
   "main": "usasort.ts",
-  "author": "William A Sease",
-  "license": "MIT"
+  "author": "William A Sease"
 }
